@@ -17,7 +17,7 @@ Similar way for updating, just click on the update tab, paste the moveset and it
 There's no moveset base for Project Moon movesets that contain almost all of the statuses, good ui, simple update + install, and easy configuration.
 
 ## Notice
-ProjectMoonBase is currently being developed, you may star the repo or join the Discord (currently being created) while you wait for the first public release.
+ProjectMoonBase is currently being developed, you may star the repo or join the Discord (currently being created) while you wait for the first public release. You can also suggest features via issues if you wish to see a specific feature added.
 
 A lot of the documentation may change when released.
 
