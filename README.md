@@ -16,6 +16,11 @@ Similar way for updating, just click on the update tab, paste the moveset and it
 ## Why?
 There's no moveset base for Project Moon movesets that contain almost all of the statuses, good ui, simple update + install, and easy configuration.
 
+## AI Usage
+LLMs may be used to automate repetitive actions (like moving the location of status billboards since that requires changing 99+ values for each status).
+
+AI should not be used for anything else in this moveset base.
+
 ## Notice
 ProjectMoonBase is currently being developed, you may star the repo or [join the Discord](https://discord.gg/bS5j927fKb) while you wait for the first public release. You can also suggest features via issues if you wish to see a specific feature added.
 
