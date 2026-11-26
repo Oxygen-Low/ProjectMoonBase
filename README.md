@@ -20,3 +20,5 @@ There's no moveset base for Project Moon movesets that contain almost all of the
 ProjectMoonBase is currently being developed, you may star the repo or join the Discord (currently being created) while you wait for the first public release.
 
 A lot of the documentation may change when released.
+
+By Oxygen Low, a Jujutsu Shenanigans moveset creator (you can search oxygenl on the workshop to see my movesets), not affiliated with Project Moon.
