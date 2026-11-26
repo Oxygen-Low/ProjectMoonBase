@@ -21,4 +21,4 @@ ProjectMoonBase is currently being developed, you may star the repo or join the 
 
 A lot of the documentation may change when released.
 
-By Oxygen Low, a Jujutsu Shenanigans moveset creator (you can search oxygenl on the workshop to see my movesets), not affiliated with Project Moon.
+By Oxygen Low, a Jujutsu Shenanigans moveset creator (you can search oxygenl on the workshop to see my movesets), not affiliated with Project Moon. Limbus Company and Library of Ruina are created by Project Moon.
